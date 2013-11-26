@@ -26,12 +26,12 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
 import org.apache.http.client.methods.HttpGet;
-import org.chinasb.login.component.JPopupTextArea;
-import org.chinasb.login.model.PTUI;
-import org.chinasb.login.util.HttpUtils;
-import org.chinasb.login.util.MD5Utils;
-import org.chinasb.login.util.QQUtils;
-import org.chinasb.login.util.StringUtils;
+import org.chinasb.example.qzonelogin.component.JPopupTextArea;
+import org.chinasb.example.qzonelogin.model.PTUI;
+import org.chinasb.example.qzonelogin.util.HttpUtils;
+import org.chinasb.example.qzonelogin.util.MD5Utils;
+import org.chinasb.example.qzonelogin.util.QQUtils;
+import org.chinasb.example.qzonelogin.util.StringUtils;
 
 import com.alibaba.fastjson.JSON;
 
